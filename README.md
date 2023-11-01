@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I’m currently studying in Sustech in Shenzhen.
+#### I’m looking for help with how to improve the coding level effectively.
 <!--
 **GetOffENT/GetOffENT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
